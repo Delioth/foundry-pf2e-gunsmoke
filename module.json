@@ -15,15 +15,6 @@
       "system": "pf2e",
       "package": "pf2e-gunsmoke",
       "private": false
-    },
-    {
-      "label": "Gunsmoke - Effects",
-      "type": "Item",
-      "name": "gunsmoke-effects",
-      "path": "./packs/gunsmoke-effects.db",
-      "system": "pf2e",
-      "package": "pf2e-gunsmoke",
-      "private": false
     }
   ],
   "flags": {
