@@ -3,8 +3,8 @@
   "title": "PF2e Gunsmoke",
   "description": "A module to implement the Gunsmoke equipment options",
   "author": "Delioth",
-  "version": "1.0.0",
-  "compatibleCoreVersion": "9",
+  "version": "1.0.1",
+  "compatibleCoreVersion": "11",
   "minimumCoreVersion": "9",
   "packs": [
     {
